@@ -5,7 +5,9 @@
 ### About
 TensorHouse is a collection of reference machine learning and optimization models for enterprise operations: marketing, pricing, supply chain, and more. The goal of the project is to provide baseline implementations for industrial, research, and educational purposes.
 
-This project contains the follwoing resources:
+The project focuses on models, techniques, and datasets that were originally developed either by industry practitioners or by academic researchers who worked in collaboration with leading companies in technology, retail, manufacturing, and other sectors. In other words, TensorHouse focuses mainly on industry-proven methods and models rather than on theoretical research.
+
+TensorHouse contains the follwoing resources:
 * a well-documented repository of reference model implementations, 
 * a manually curated list of [important papers](https://github.com/ikatsov/tensor-house/blob/master/resources/papers.md) in modern operations research,
 * a manually curated list of [public datasets](https://github.com/ikatsov/tensor-house/blob/master/resources/datasets.md) related to entrerpirse use cases.
