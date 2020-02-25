@@ -10,9 +10,14 @@ This project contains the follwoing resources:
 * a manually curated list of [important papers](https://github.com/ikatsov/tensor-house/blob/master/resources/papers.md) in modern operations research,
 * a manually curated list of [public datasets](https://github.com/ikatsov/tensor-house/blob/master/resources/datasets.md) related to entrerpirse use cases.
 
-### Illustrative Example 
-*Strategic price optimization using reinforcement learning*
+### Illustrative Examples
+*Strategic price optimization using reinforcement learning: \
+DQN learns a Hi-Lo pricing policy that switches between regular and discounted prices*
 ![Price Optimization Using RL Animation](https://github.com/ikatsov/algorithmic-marketing-examples/blob/master/resources/hilo-pricing-dqn-training-animation.gif)
+
+*Semantic analysis of customer transactions using NLP methods: \
+Word2vec learns products embeddings from sequences of orders*
+![Learning Semantic Item Representation from Transactions](https://github.com/ikatsov/algorithmic-marketing-examples/blob/master/resources/item2vec-clustering.gif)
 
 ### List of Models 
 
