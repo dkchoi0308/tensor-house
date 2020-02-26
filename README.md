@@ -51,3 +51,8 @@ Word2vec learns products embeddings from sequences of orders*
 ### Contributors
 * Ilya Katsov
 * Dmytro Zikrach 
+
+### News Feeds
+Follow our twitter feed for notifications about meetups and new developments:
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/DataPointsSMT.svg?style=social)](https://twitter.com/DataPointsSMT) 
