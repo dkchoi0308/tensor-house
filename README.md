@@ -7,10 +7,10 @@ TensorHouse is a collection of reference machine learning and optimization model
 
 The project focuses on models, techniques, and datasets that were originally developed either by industry practitioners or by academic researchers who worked in collaboration with leading companies in technology, retail, manufacturing, and other sectors. In other words, TensorHouse focuses mainly on industry-proven methods and models rather than on theoretical research.
 
-TensorHouse contains the follwoing resources:
+TensorHouse contains the following resources:
 * a well-documented repository of reference model implementations, 
 * a manually curated list of [important papers](https://github.com/ikatsov/tensor-house/blob/master/resources/papers.md) in modern operations research,
-* a manually curated list of [public datasets](https://github.com/ikatsov/tensor-house/blob/master/resources/datasets.md) related to entrerpirse use cases.
+* a manually curated list of [public datasets](https://github.com/ikatsov/tensor-house/blob/master/resources/datasets.md) related to enterprise use cases.
 
 ### Illustrative Examples
 *Strategic price optimization using reinforcement learning: \
