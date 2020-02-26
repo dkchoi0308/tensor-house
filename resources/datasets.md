@@ -23,3 +23,15 @@ Demographics and direct marketing contact history for select households
 * Data: https://www.dunnhumby.com/careers/engineering/sourcefiles
 * Description: https://www.dunnhumby.com/careers/engineering/sourcefiles
 * Backup copy (data and description): https://drive.google.com/drive/folders/1PAe62y3fgxPSgzvkMph3295Ah9WCMrhR
+
+#### Yoochoose - RecSys Challenge 2015
+The data represents six months of activities of a big e-commerce businesses in Europe selling all kinds of stuff such as garden tools, toys, clothes, electronics and much more.
+* Data: https://recsys.yoochoose.net/challenge.html
+* Description: https://recsys.yoochoose.net/challenge.html
+* Backup copy (data and description): https://drive.google.com/drive/folders/1pQXY_Pl6UaLYcfvN92pqbDyk2auvyibA
+
+#### MovieLens - 25M Dataset
+MovieLens 25M movie ratings. Stable benchmark dataset. 25 million ratings and one million tag applications applied to 62,000 movies by 162,000 users. Includes tag genome data with 15 million relevance scores across 1,129 tags. Released 12/2019
+* Data: https://grouplens.org/datasets/movielens/25m/
+* Description: https://grouplens.org/datasets/movielens/25m/
+* Backup copy (data and description): https://drive.google.com/drive/folders/1GhJGkFAwNb95Jnah6OEKJH2oDg0ls25g
