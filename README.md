@@ -48,11 +48,7 @@ Word2vec learns products embeddings from sequences of orders*
 * More advanced models use deep learning techniques to analyze event sequences (e.g. clickstream) and reinforcement learning for optimization (e.g. safety stock management policy)
 * Almost all models are based on industrial reports and real-life case studies
 
-### Contributors
-* Ilya Katsov
-* Dmytro Zikrach 
-
-### News Feeds
-Follow our twitter feed for notifications about meetups and new developments:
+### Community
+Follow our twitter feed for notifications about meetups and new developments.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DataPointsSMT.svg?style=social)](https://twitter.com/DataPointsSMT) 
