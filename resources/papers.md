@@ -18,9 +18,10 @@ Many entries are explitly tagged with **\[CompanyYear\]** prefix to provide a cl
 9. Netzer O., Lattin J., Srinivasan V. -- A Hidden Markov Model of Customer Relationship Dynamics, 2008
 
 ### Personalized Recommendations, Ads, and Promotions
-1. **[ Adobe2015 ]** G. Theocharous, P. Thomas, and M. Ghavamzadeh -- Personalized Ad Recommendation Systems for Life-Time Value Optimization with Guarantees, 2015
+1. **[ Facebook2019 ]** Gauci J., et al -- Horizon: Facebook's Open Source Applied Reinforcement Learning Platform, 2019
+2. **[ Adobe2015 ]** G. Theocharous, P. Thomas, and M. Ghavamzadeh -- Personalized Ad Recommendation Systems for Life-Time Value Optimization with Guarantees, 2015
 3. **[ Airbnb2019 ]** Du G. -- Discovering and Classifying In-app Message Intent at Airbnb, 2019
-4. **[ BookingCom2019 ]** Bernardi L., Mavridis T., EstevezP. -- 150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com, 2019
+4. **[ BookingCom2019 ]** Bernardi L., Mavridis T., Estevez P. -- 150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com, 2019
 5. Zhang S., Yao L., Sun A., Tay Y. -- Deep Learning based Recommender System: A Survey and New Perspectives, 2019
 6. Pfeifer P., Carraway R. -- Modeling Customer Relationships as Markov Chains, 2000
 7. Rendle S. -- Factorization Machines, 2010
@@ -70,7 +71,7 @@ Many entries are explitly tagged with **\[CompanyYear\]** prefix to provide a cl
 2. Riedmiller M. -- Neural Fitted Q Iteration - First Experiences with a Data Efficient Neural Reinforcement Learning Method, 2005
 3. Mnih V., et al. -- Human-level Control Through Deep Reinforcement Learning, 2015
 4. Silver D., Lever G., Heess N., Degris T., Wierstra D., Riedmiller M. -- Deterministic Policy Gradient Algorithms, 2014
-5. Lillicrap T., Hunt J., Pritzel A., Heess N., Erez T., Tassa Y., Silver D., Wierstra D. - Continuous control with deep reinforcement learning, 2015
+5. Lillicrap T., Hunt J., Pritzel A., Heess N., Erez T., Tassa Y., Silver D., Wierstra D. -- Continuous control with deep reinforcement learning, 2015
 
 ### Reinforcement Learning in Operations 
 1. Bello I., Pham H., Le Q., Norouzi M., Bengio S. -- Neural Combinatorial Optimization with Reinforcement Learning, 2017
