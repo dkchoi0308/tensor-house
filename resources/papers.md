@@ -54,21 +54,26 @@ Many entries are explitly tagged with **\[CompanyYear\]** prefix to provide a cl
 # Books
 
 ### Customer Intelligence
-1. Winston W. -- Marketing Analytics: Data-Driven Techniques with Microsoft Excel, 2014
-2. Grigsby M. -- Advanced Customer Analytics: Targeting, Valuing, Segmenting and Loyalty Techniques, 2016
+1. Winston W. -- Marketing Analytics: Data-Driven Techniques with Microsoft Excel, Wiley, 2014
+2. Grigsby M. -- Advanced Customer Analytics: Targeting, Valuing, Segmenting and Loyalty Techniques, Kogan Page, 2016
 3. Katsov I. -- [Introduction to Algorithmic Marketing](https://algorithmicweb.wordpress.com/), 2017
+4. Falk K. -- Practical Recommender Systems, Manning, 2019
 
 ### Price Management
-1. Simon H., FassnachtM. -- Price Management: Strategy, Analysis, Decision, Implementation, 2018
-2. Talluri K., van Ryzin G. -- The Theory and Practice of Revenue Management, 2004
-3. Smith T. -- Pricing Strategy: Setting Price Levels, Managing Price Discounts and Establishing Price Structures, 2011
-4. Phillips R. -- Pricing and Revenue Optimization, 2005
+1. Simon H., FassnachtM. -- Price Management: Strategy, Analysis, Decision, Implementation, Springer, 2018
+2. Talluri K., van Ryzin G. -- The Theory and Practice of Revenue Management, Springer, 2004
+3. Smith T. -- Pricing Strategy: Setting Price Levels, Managing Price Discounts and Establishing Price Structures, Cengage Learning, 2011
+4. Phillips R. -- Pricing and Revenue Optimization, Stanford Business Books, 2005
 
 ### Supply Chain
-1. Fisher M., Raman A. -- The New Science of Retailing: How Analytics are Transforming the Supply Chain and Improving Performance, 2010
-2. Jacobs R., Berry W., Whybark D., Vollmann T. -- Manufacturing Planning and Control for Supply Chain Management, 2018
+1. Fisher M., Raman A. -- The New Science of Retailing: How Analytics are Transforming the Supply Chain and Improving Performance, Harvard Business Review Press, 2010
+2. Jacobs R., Berry W., Whybark D., Vollmann T. -- Manufacturing Planning and Control for Supply Chain Management, McGraw-Hill Education, 2018
 3. Vandeput N. -- Data Science for Supply Chain Forecast, 2018
 
 ### Econometrics
-1. Shumway R., Stoffer D. -- Time Series Analysis and Its Applications: With R Examples, 2017
-2. Mills T. -- Applied Time Series Analysis: A Practical Guide to Modeling and Forecasting, 2019
+1. Shumway R., Stoffer D. -- Time Series Analysis and Its Applications: With R Examples, Springer, 2017
+2. Mills T. -- Applied Time Series Analysis: A Practical Guide to Modeling and Forecasting, Academic Press, 2019
+
+### Data Science and Machine Learning for Enterprise Use Cases
+1. Provost F., Fawcett T. -- Data Science for Business, O'Reilly Media, 2013
+2. Osinga D. -- Deep Learning Cookbook, O'Reilly Media, 2018
