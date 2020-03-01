@@ -1,7 +1,7 @@
 # Imortant Publications in Modern Operations Research
 What follows is a manually curated list of papers in modern operations research that are worth reading. 
-We mainly focus on industrial reports, papers, and case studies, not purely theoretical works. 
-Many entries are explitly tagged with **\[CompanyYear\]** prefix to provide a clearer picture of industrial adoption or affiliation.
+* We mainly focus on industrial reports, papers, and case studies, not purely theoretical works. Many entries are explitly tagged with **\[CompanyYear\]** prefix to provide a clearer picture of industrial adoption or affiliation.
+* Theoretical Foundations section focuses on papers that are most relevant in the context of operations research. There is no goal to create a comprehensive list of deep learning or reinforcement learning papers in general.  
 
 ---
 # Customer Intelligence and Personalization
@@ -22,9 +22,11 @@ Many entries are explitly tagged with **\[CompanyYear\]** prefix to provide a cl
 2. **[ Adobe2015 ]** G. Theocharous, P. Thomas, and M. Ghavamzadeh -- Personalized Ad Recommendation Systems for Life-Time Value Optimization with Guarantees, 2015
 3. **[ Airbnb2019 ]** Du G. -- Discovering and Classifying In-app Message Intent at Airbnb, 2019
 4. **[ BookingCom2019 ]** Bernardi L., Mavridis T., Estevez P. -- 150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com, 2019
-5. Zhang S., Yao L., Sun A., Tay Y. -- Deep Learning based Recommender System: A Survey and New Perspectives, 2019
-6. Pfeifer P., Carraway R. -- Modeling Customer Relationships as Markov Chains, 2000
-7. Rendle S. -- Factorization Machines, 2010
+5. **[ Amazon2003 ]** Linden G., Smith B., and York J. -- Amazon.com Recommendations: Item-to-Item Collaborative Filtering, 2003
+6. **[ Netflix2009 ]** Koren Y. -- The BellKor Solution to the Netflix Grand Prize, 2009
+7. Zhang S., Yao L., Sun A., Tay Y. -- Deep Learning based Recommender System: A Survey and New Perspectives, 2019
+8. Pfeifer P., Carraway R. -- Modeling Customer Relationships as Markov Chains, 2000
+9. Rendle S. -- Factorization Machines, 2010
 
 ### Channel Attribution, Marketing Spend Optimization, and Ad Bidding
 1. **[ Adobe2018 ]** N. Li, S. K. Arava, C. Dong, Z. Yan, and A. Pani -- Deep Neural Net with Attention for Multi-channel Multi-touch Attribution, 2018
@@ -33,7 +35,7 @@ Many entries are explitly tagged with **\[CompanyYear\]** prefix to provide a cl
 4. **[ Alibaba2018]** Zhao J., Qiu G., Guan Z., Zhao W. and He X. -- Deep Reinforcement Learning for Sponsored Search Real-time Bidding, 2018
 5. **[ iProspect2004 ]** Kitts B., Leblanc B. -- Optimial Bidding on Keyword Auctions, 2004
 6. **[ Dstillery2012 ]** Dalessandro B., Perlich C., Stitelman O., Provost F. -- Causally motivated attribution for online advertising, 2012
-7. **[ TurnIc2011 ]** Shao X., Li L. -- Data-driven Multi-touch Attribution Models, 2011
+7. **[ TurnInc2011 ]** Shao X., Li L. -- Data-driven Multi-touch Attribution Models, 2011
 8. **[ IntegralAds2015 ]** Hill D., Moakler R., Hubbard A., Tsemekhman V., Provost F., Tsemekhman K. -- Measuring Causal Impact of Online Actions via Natural Experiments: Application to Display Advertising, 2015
 
 ---
@@ -42,8 +44,9 @@ Many entries are explitly tagged with **\[CompanyYear\]** prefix to provide a cl
 ### Demand Analysis and Forecasting
 1. **[ CVS2007 ]** Ailawadi K., Harlam B., César J., Trounce D. -- Quantifying and Improving Promotion Effectiveness at CVS, 2007
 2. **[ Lexus2010 ]** van Heerde H., Srinivasan S., Dekimpe M. -- Estimating Cannibalization Rates for Pioneering Innovations, 2010
-3. Rodrigues F., Markou I., Pereira F. -- Combining Time-Series and Textual Data for Taxi Demand Prediction in Event Areas: A Deep Learning Approach, 2018
-4. Ghobbar A., Friend C. -- Evaluation of Forecasting Methods for Intermittent Parts Demand in the Field of Aviation: A Predictive Model, 2002
+3. **[ AlbertHeijn2006 ]** Kök A., Fisher M. -- Demand Estimation and Assortment Optimization Under Substitution: Methodology and Application, 2006
+4. Rodrigues F., Markou I., Pereira F. -- Combining Time-Series and Textual Data for Taxi Demand Prediction in Event Areas: A Deep Learning Approach, 2018
+5. Ghobbar A., Friend C. -- Evaluation of Forecasting Methods for Intermittent Parts Demand in the Field of Aviation: A Predictive Model, 2002
 
 ### Dynamic Pricing
 1. **[ Groupon2017 ]** Cheung W., Simchi-Levi D., and Wang H. -- Dynamic Pricing and Demand Learning with Limited Price Experimentation, 2017
@@ -71,10 +74,18 @@ Many entries are explitly tagged with **\[CompanyYear\]** prefix to provide a cl
 2. Riedmiller M. -- Neural Fitted Q Iteration - First Experiences with a Data Efficient Neural Reinforcement Learning Method, 2005
 3. Mnih V., et al. -- Human-level Control Through Deep Reinforcement Learning, 2015
 4. Silver D., Lever G., Heess N., Degris T., Wierstra D., Riedmiller M. -- Deterministic Policy Gradient Algorithms, 2014
-5. Lillicrap T., Hunt J., Pritzel A., Heess N., Erez T., Tassa Y., Silver D., Wierstra D. -- Continuous control with deep reinforcement learning, 2015
+5. Lillicrap T., Hunt J., Pritzel A., Heess N., Erez T., Tassa Y., Silver D., Wierstra D. -- Continuous Control with Deep Reinforcement Learning, 2015
+6. Hessel M, et al. -- Rainbow: Combining Improvements in Deep Reinforcement Learning, 2017
 
 ### Reinforcement Learning in Operations 
 1. Bello I., Pham H., Le Q., Norouzi M., Bengio S. -- Neural Combinatorial Optimization with Reinforcement Learning, 2017
+
+### Foundation of Deep Learning
+1. Hochreiter S., Schmidhuber J. -- Long short-term memory, 1997
+2. Mikolov T., Chen K., Corrado G., Dean J. -- Efficient Estimation of Word Representations in Vector Space, 2013
+3. Le Q., Mikolov T. -- Distributed Representations of Sentences and Documents, 2014 
+4. Sutskever I., Vinyals O., Le Q. -- Sequence to Sequence Learning with Neural Networks, 2014
+5. Vaswani A., Shazeer N., Parmar N., Uszkoreit J., Jones L., Gomez A., Kaiser L., Polosukhin I. -- Attention Is All You Need, 2017
 
 ---
 # Books
