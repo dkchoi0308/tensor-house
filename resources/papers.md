@@ -18,19 +18,26 @@ What follows is a manually curated list of papers in modern operations research 
 9. Netzer O., Lattin J., Srinivasan V. -- A Hidden Markov Model of Customer Relationship Dynamics, 2008
 
 ### Personalized Recommendations, Ads, and Promotions
+
+#### Common Methods
+1. **[ BookingCom2019 ]** Bernardi L., Mavridis T., Estevez P. -- 150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com, 2019
+2. **[ Amazon2003 ]** Linden G., Smith B., and York J. -- Amazon.com Recommendations: Item-to-Item Collaborative Filtering, 2003
+3. **[ Netflix2009 ]** Koren Y. -- The BellKor Solution to the Netflix Grand Prize, 2009
+4. Pfeifer P., Carraway R. -- Modeling Customer Relationships as Markov Chains, 2000
+5. Rendle S. -- Factorization Machines, 2010
+
+#### Reinforcement Learning Methods
 1. **[ Facebook2019 ]** Gauci J., et al -- Horizon: Facebook's Open Source Applied Reinforcement Learning Platform, 2019
 2. **[ Adobe2015 ]** G. Theocharous, P. Thomas, and M. Ghavamzadeh -- Personalized Ad Recommendation Systems for Life-Time Value Optimization with Guarantees, 2015
-3. **[ Airbnb2019 ]** Du G. -- Discovering and Classifying In-app Message Intent at Airbnb, 2019
-4. **[ BookingCom2019 ]** Bernardi L., Mavridis T., Estevez P. -- 150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com, 2019
-5. **[ Amazon2003 ]** Linden G., Smith B., and York J. -- Amazon.com Recommendations: Item-to-Item Collaborative Filtering, 2003
-6. **[ Netflix2009 ]** Koren Y. -- The BellKor Solution to the Netflix Grand Prize, 2009
-7. **[ Pinterest2018 ]** Ying R., He R., Chen K., Eksombatchai P., Hamilton W., Leskovec J. -- Graph Convolutional Neural Networks for Web-Scale Recommender Systems, 2018
-8. **[ Pinterest2017 ]** Eksombatchai C., Jindal P., Liu J., Liu Y., Sharma R., Sugnet C., Ulrich M., Leskovec J. -- Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time, 2017
-8. **[ Uber2019 ]** Jain A., Liu I., Sarda A., and Molino P. -- Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations, 2019
-9. **[ Google2016 ]** Covington P., Adams J., Sargin E. -- Deep Neural Networks for YouTube Recommendations, 2016
-9. Zhang S., Yao L., Sun A., Tay Y. -- Deep Learning based Recommender System: A Survey and New Perspectives, 2019
-10. Pfeifer P., Carraway R. -- Modeling Customer Relationships as Markov Chains, 2000
-11. Rendle S. -- Factorization Machines, 2010
+3. **[ Criteo2018 ]** Rohde D., Bonner S., Dunlop T., Vasile F., Karatzoglou A. -- RecoGym: A Reinforcement Learning Environment for the Problem of Product Recommendation in Online Advertising, 2018
+
+#### Deep Learning and Graph-based Methods
+1. **[ Airbnb2019 ]** Du G. -- Discovering and Classifying In-app Message Intent at Airbnb, 2019
+2. **[ Google2016 ]** Covington P., Adams J., Sargin E. -- Deep Neural Networks for YouTube Recommendations, 2016
+3. **[ Pinterest2018 ]** Ying R., He R., Chen K., Eksombatchai P., Hamilton W., Leskovec J. -- Graph Convolutional Neural Networks for Web-Scale Recommender Systems, 2018
+4. **[ Pinterest2017 ]** Eksombatchai C., Jindal P., Liu J., Liu Y., Sharma R., Sugnet C., Ulrich M., Leskovec J. -- Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time, 2017
+5. **[ Uber2019 ]** Jain A., Liu I., Sarda A., and Molino P. -- Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations, 2019
+6. Zhang S., Yao L., Sun A., Tay Y. -- Deep Learning based Recommender System: A Survey and New Perspectives, 2019
 
 ### Channel Attribution, Marketing Spend Optimization, and Ad Bidding
 1. **[ Adobe2018 ]** N. Li, S. K. Arava, C. Dong, Z. Yan, and A. Pani -- Deep Neural Net with Attention for Multi-channel Multi-touch Attribution, 2018
