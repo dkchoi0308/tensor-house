@@ -24,9 +24,11 @@ What follows is a manually curated list of papers in modern operations research 
 4. **[ BookingCom2019 ]** Bernardi L., Mavridis T., Estevez P. -- 150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com, 2019
 5. **[ Amazon2003 ]** Linden G., Smith B., and York J. -- Amazon.com Recommendations: Item-to-Item Collaborative Filtering, 2003
 6. **[ Netflix2009 ]** Koren Y. -- The BellKor Solution to the Netflix Grand Prize, 2009
-7. Zhang S., Yao L., Sun A., Tay Y. -- Deep Learning based Recommender System: A Survey and New Perspectives, 2019
-8. Pfeifer P., Carraway R. -- Modeling Customer Relationships as Markov Chains, 2000
-9. Rendle S. -- Factorization Machines, 2010
+7. **[ Pinterest2018 ]** Ying R., He R., Chen K., Eksombatchai P., Hamilton W., Leskovec J. -- Graph Convolutional Neural Networks for Web-Scale Recommender Systems, 2018
+8. **[ Uber2019 ]** Jain A., Liu I., Sarda A., and Molino P. -- Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations, 2019
+9. Zhang S., Yao L., Sun A., Tay Y. -- Deep Learning based Recommender System: A Survey and New Perspectives, 2019
+10. Pfeifer P., Carraway R. -- Modeling Customer Relationships as Markov Chains, 2000
+11. Rendle S. -- Factorization Machines, 2010
 
 ### Channel Attribution, Marketing Spend Optimization, and Ad Bidding
 1. **[ Adobe2018 ]** N. Li, S. K. Arava, C. Dong, Z. Yan, and A. Pani -- Deep Neural Net with Attention for Multi-channel Multi-touch Attribution, 2018
@@ -45,8 +47,10 @@ What follows is a manually curated list of papers in modern operations research 
 1. **[ CVS2007 ]** Ailawadi K., Harlam B., César J., Trounce D. -- Quantifying and Improving Promotion Effectiveness at CVS, 2007
 2. **[ Lexus2010 ]** van Heerde H., Srinivasan S., Dekimpe M. -- Estimating Cannibalization Rates for Pioneering Innovations, 2010
 3. **[ AlbertHeijn2006 ]** Kök A., Fisher M. -- Demand Estimation and Assortment Optimization Under Substitution: Methodology and Application, 2006
-4. Rodrigues F., Markou I., Pereira F. -- Combining Time-Series and Textual Data for Taxi Demand Prediction in Event Areas: A Deep Learning Approach, 2018
-5. Ghobbar A., Friend C. -- Evaluation of Forecasting Methods for Intermittent Parts Demand in the Field of Aviation: A Predictive Model, 2002
+4. **[ Uber2017 ]** Zhu L., Laptev N. -- Deep and Confident Prediction for Time Series at Uber, 2017
+6. **[ Uber2017 ]** Laptev N., Yosinski J., Li L., Smyl S. -- Time-series Extreme Event Forecasting with Neural Networks at Uber, 2017
+7. Rodrigues F., Markou I., Pereira F. -- Combining Time-Series and Textual Data for Taxi Demand Prediction in Event Areas: A Deep Learning Approach, 2018
+8. Ghobbar A., Friend C. -- Evaluation of Forecasting Methods for Intermittent Parts Demand in the Field of Aviation: A Predictive Model, 2002
 
 ### Dynamic Pricing
 1. **[ Groupon2017 ]** Cheung W., Simchi-Levi D., and Wang H. -- Dynamic Pricing and Demand Learning with Limited Price Experimentation, 2017
