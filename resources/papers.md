@@ -24,8 +24,9 @@ What follows is a manually curated list of papers in modern data science and ope
 1. **[ BookingCom2019 ]** Bernardi L., Mavridis T., Estevez P. -- 150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com, 2019
 2. **[ Amazon2003 ]** Linden G., Smith B., and York J. -- Amazon.com Recommendations: Item-to-Item Collaborative Filtering, 2003
 3. **[ Netflix2009 ]** Koren Y. -- The BellKor Solution to the Netflix Grand Prize, 2009
-4. Pfeifer P., Carraway R. -- Modeling Customer Relationships as Markov Chains, 2000
-5. Rendle S. -- Factorization Machines, 2010
+4. **[ Netflix2009 ]** Koren Y., Bell R., and Volinsky C. -- Matrix Factorization Techniques for Recommender Systems, 2009
+5. Pfeifer P., Carraway R. -- Modeling Customer Relationships as Markov Chains, 2000
+6. Rendle S. -- Factorization Machines, 2010
 
 #### Reinforcement Learning Methods
 1. **[ Facebook2019 ]** Gauci J., et al -- Horizon: Facebook's Open Source Applied Reinforcement Learning Platform, 2019
