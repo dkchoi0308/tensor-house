@@ -1,5 +1,5 @@
-# Imortant Publications in Modern Operations Research
-What follows is a manually curated list of papers in modern operations research that are worth reading. 
+# Imortant Publications in Enterprise Data Science / ML / AI
+What follows is a manually curated list of papers in modern data science and operations research that are worth reading. 
 * We mainly focus on industrial reports, papers, and case studies, not purely theoretical works. Many entries are explitly tagged with **\[CompanyYear\]** prefix to provide a clearer picture of industrial adoption or affiliation.
 * Theoretical Foundations section focuses on papers that are most relevant in the context of operations research. There is no goal to create a comprehensive list of deep learning or reinforcement learning papers in general.  
 
@@ -15,7 +15,8 @@ What follows is a manually curated list of papers in modern operations research 
 6. **[ Yandex2018 ]** Seleznev N., Irkhin I., Kantor V. -- Automated extraction of rider’s attributes based on taxi mobile application activity logs, 2018
 7. **[ BBVA2018 ]** Baldassini L., Serrano J. -- client2vec: Towards Systematic Baselines for Banking Applications
 8. **[ Santander2018 ]** Mancisidor R., Kampffmeyer M., Aas K., Jenssen R. -- Segment-Based Credit Scoring Using Latent Clusters in the Variational Autoencoder, 2018
-9. Netzer O., Lattin J., Srinivasan V. -- A Hidden Markov Model of Customer Relationship Dynamics, 2008
+9. **[ Zalando2017 ]** Lang T., Rettenmeier M. -- Understanding Consumer Behavior with Recurrent Neural Networks, 2017
+10. Netzer O., Lattin J., Srinivasan V. -- A Hidden Markov Model of Customer Relationship Dynamics, 2008
 
 ### Personalized Recommendations, Ads, and Promotions
 
