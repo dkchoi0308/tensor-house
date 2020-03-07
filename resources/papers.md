@@ -20,7 +20,7 @@ What follows is a manually curated list of papers in modern data science and ope
 
 ### Personalized Recommendations, Ads, and Promotions
 
-#### Common Methods
+#### Basic Methods
 1. **[ BookingCom2019 ]** Bernardi L., Mavridis T., Estevez P. -- 150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com, 2019
 2. **[ Amazon2003 ]** Linden G., Smith B., and York J. -- Amazon.com Recommendations: Item-to-Item Collaborative Filtering, 2003
 3. **[ Netflix2009 ]** Koren Y. -- The BellKor Solution to the Netflix Grand Prize, 2009
@@ -32,18 +32,24 @@ What follows is a manually curated list of papers in modern data science and ope
 1. **[ Facebook2019 ]** Gauci J., et al -- Horizon: Facebook's Open Source Applied Reinforcement Learning Platform, 2019
 2. **[ Adobe2015 ]** G. Theocharous, P. Thomas, and M. Ghavamzadeh -- Personalized Ad Recommendation Systems for Life-Time Value Optimization with Guarantees, 2015
 3. **[ Criteo2018 ]** Rohde D., Bonner S., Dunlop T., Vasile F., Karatzoglou A. -- RecoGym: A Reinforcement Learning Environment for the Problem of Product Recommendation in Online Advertising, 2018
+4. **[ Spotify2018 ]** McInerney J., Lacker B., Hansen S., Higley K., Bouchard H., Gruson A., Mehrotra R. -- Explore, Exploit, and Explain: Personalizing Explainable Recommendations with Bandits, 2018
+5. **[ Google2018 ]** Chen M., Beutel A., Covington P., Jain S., Belletti F., Chi E. -- Top-K Off-Policy Correction for a REINFORCE Recommender System, 2018
 
 #### Deep Learning Methods
 1. **[ Airbnb2019 ]** Du G. -- Discovering and Classifying In-app Message Intent at Airbnb, 2019
 2. **[ Google2016 ]** Covington P., Adams J., Sargin E. -- Deep Neural Networks for YouTube Recommendations, 2016
 3. **[ Netflix2016 ]** Hidasi B., Karatzoglou A., Baltrunas L., Tikk D. -- Session-based Recommendations with Recurrent Neural Networks, 2016
 4. **[ Google2017 ]** Wu C., Ahmed A., Beutel A., Smola A., Jing H. -- Recurrent Recommender Networks, 2017
+5. Zhang S., Yao L., Sun A., Tay Y. -- Deep Learning based Recommender System: A Survey and New Perspectives, 2019
 
 #### Deep Graph Learning Methods
 1. **[ Pinterest2018 ]** Ying R., He R., Chen K., Eksombatchai P., Hamilton W., Leskovec J. -- Graph Convolutional Neural Networks for Web-Scale Recommender Systems, 2018
 2. **[ Pinterest2017 ]** Eksombatchai C., Jindal P., Liu J., Liu Y., Sharma R., Sugnet C., Ulrich M., Leskovec J. -- Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time, 2017
 3. **[ Uber2019 ]** Jain A., Liu I., Sarda A., and Molino P. -- Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations, 2019
-4. Zhang S., Yao L., Sun A., Tay Y. -- Deep Learning based Recommender System: A Survey and New Perspectives, 2019
+
+#### Evaluation and Measurement
+1. **[ Netflix2018 ]** Steck H. -- Calibrated Recommendations, 2018
+2. Chaney A., Stewart B., Engelhardt B. -- How Algorithmic Confounding in Recommendation Systems Increases Homogeneity and Decreases Utility, 2017
 
 ### Channel Attribution, Marketing Spend Optimization, and Ad Bidding
 1. **[ Adobe2018 ]** N. Li, S. K. Arava, C. Dong, Z. Yan, and A. Pani -- Deep Neural Net with Attention for Multi-channel Multi-touch Attribution, 2018
