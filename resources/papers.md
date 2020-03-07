@@ -33,13 +33,17 @@ What follows is a manually curated list of papers in modern data science and ope
 2. **[ Adobe2015 ]** G. Theocharous, P. Thomas, and M. Ghavamzadeh -- Personalized Ad Recommendation Systems for Life-Time Value Optimization with Guarantees, 2015
 3. **[ Criteo2018 ]** Rohde D., Bonner S., Dunlop T., Vasile F., Karatzoglou A. -- RecoGym: A Reinforcement Learning Environment for the Problem of Product Recommendation in Online Advertising, 2018
 
-#### Deep Learning and Graph-based Methods
+#### Deep Learning Methods
 1. **[ Airbnb2019 ]** Du G. -- Discovering and Classifying In-app Message Intent at Airbnb, 2019
 2. **[ Google2016 ]** Covington P., Adams J., Sargin E. -- Deep Neural Networks for YouTube Recommendations, 2016
-3. **[ Pinterest2018 ]** Ying R., He R., Chen K., Eksombatchai P., Hamilton W., Leskovec J. -- Graph Convolutional Neural Networks for Web-Scale Recommender Systems, 2018
-4. **[ Pinterest2017 ]** Eksombatchai C., Jindal P., Liu J., Liu Y., Sharma R., Sugnet C., Ulrich M., Leskovec J. -- Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time, 2017
-5. **[ Uber2019 ]** Jain A., Liu I., Sarda A., and Molino P. -- Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations, 2019
-6. Zhang S., Yao L., Sun A., Tay Y. -- Deep Learning based Recommender System: A Survey and New Perspectives, 2019
+3. **[ Netflix2016 ]** Hidasi B., Karatzoglou A., Baltrunas L., Tikk D. -- Session-based Recommendations with Recurrent Neural Networks, 2016
+4. **[ Google2017 ]** Wu C., Ahmed A., Beutel A., Smola A., Jing H. -- Recurrent Recommender Networks, 2017
+
+#### Deep Graph Learning Methods
+1. **[ Pinterest2018 ]** Ying R., He R., Chen K., Eksombatchai P., Hamilton W., Leskovec J. -- Graph Convolutional Neural Networks for Web-Scale Recommender Systems, 2018
+2. **[ Pinterest2017 ]** Eksombatchai C., Jindal P., Liu J., Liu Y., Sharma R., Sugnet C., Ulrich M., Leskovec J. -- Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time, 2017
+3. **[ Uber2019 ]** Jain A., Liu I., Sarda A., and Molino P. -- Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations, 2019
+4. Zhang S., Yao L., Sun A., Tay Y. -- Deep Learning based Recommender System: A Survey and New Perspectives, 2019
 
 ### Channel Attribution, Marketing Spend Optimization, and Ad Bidding
 1. **[ Adobe2018 ]** N. Li, S. K. Arava, C. Dong, Z. Yan, and A. Pani -- Deep Neural Net with Attention for Multi-channel Multi-touch Attribution, 2018
