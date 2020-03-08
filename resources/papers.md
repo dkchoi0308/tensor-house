@@ -40,7 +40,8 @@ What follows is a manually curated list of papers in modern data science and ope
 2. **[ Google2016 ]** Covington P., Adams J., Sargin E. -- Deep Neural Networks for YouTube Recommendations, 2016
 3. **[ Netflix2016 ]** Hidasi B., Karatzoglou A., Baltrunas L., Tikk D. -- Session-based Recommendations with Recurrent Neural Networks, 2016
 4. **[ Google2017 ]** Wu C., Ahmed A., Beutel A., Smola A., Jing H. -- Recurrent Recommender Networks, 2017
-5. Zhang S., Yao L., Sun A., Tay Y. -- Deep Learning based Recommender System: A Survey and New Perspectives, 2019
+5. **[ Snap2018 ]** Yang C., Shi X., Luo J. and Han J. -- I Know You'll Be Back: Interpretable New User Clustering and Churn Prediction on a Mobile Social Application, 2018
+6. Zhang S., Yao L., Sun A., Tay Y. -- Deep Learning based Recommender System: A Survey and New Perspectives, 2019
 
 #### Deep Graph Learning Methods
 1. **[ Pinterest2018 ]** Ying R., He R., Chen K., Eksombatchai P., Hamilton W., Leskovec J. -- Graph Convolutional Neural Networks for Web-Scale Recommender Systems, 2018
