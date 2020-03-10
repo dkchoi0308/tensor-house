@@ -41,3 +41,9 @@ MovieLens 25M movie ratings. Stable benchmark dataset. 25 million ratings and on
 * Data: https://grouplens.org/datasets/movielens/25m/
 * Description: https://grouplens.org/datasets/movielens/25m/
 * Backup copy (data and description): https://drive.google.com/drive/folders/1GhJGkFAwNb95Jnah6OEKJH2oDg0ls25g
+
+#### Elo - Merchant Category Recommendation
+This dataset is created by Elo, one of the largest payment brands in Brazil. The datset contain contains up to 3 months' worth of transactions for every card.
+* Data: https://www.kaggle.com/c/elo-merchant-category-recommendation/data
+* Description: https://www.kaggle.com/c/elo-merchant-category-recommendation/overview
+* Backup copy (data and description): https://drive.google.com/drive/folders/1HmrVX4nAT3AVD9jHIe_z-pTKn7Jh-J-h?usp=sharing
