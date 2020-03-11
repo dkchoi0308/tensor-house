@@ -2,7 +2,7 @@
 
 #### Instacart - Market Basket Analysis
 The dataset is anonymized and contains a sample of over 3 million grocery orders from more than 200,000 Instacart users. 
-* Data: https://www.kaggle.com/c/instacart-market-basket-analysis/data
+* Data: https://www.instacart.com/datasets/grocery-shopping-2017 or https://www.kaggle.com/c/instacart-market-basket-analysis/data
 * Description: https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b
 * Backup copy (data and description): https://drive.google.com/drive/folders/1JC-D3vtYI6iOSGaZ9DoSXDQ4GrvMzqLL
 
